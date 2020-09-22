@@ -1,0 +1,17 @@
+{
+  "name": "Test",
+  "description": "PRIME Settings",
+  "version": "0.1.0",
+  "main": "index.html",
+  "inject_js_start": "mian.js",
+  "window": {
+    "toolbar": false,
+    "fullscreen": true,
+    "show_in_taskbar": true,
+    "resizable": true,
+    "as_desktop": true
+  },
+  "dependencies": {
+    "node": "^14.11.0"
+  }
+}
